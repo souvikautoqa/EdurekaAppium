@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="5" name="AppiumTests(failed)">
+    <classes>
+      <class name="appiumscripts.AppiumFirstScript">
+        <methods>
+          <include name="appiumTestSetup"/>
+          <include name="reLaunchApp"/>
+          <include name="closeTest"/>
+          <include name="appiumSecondTest"/>
+        </methods>
+      </class> <!-- appiumscripts.AppiumFirstScript -->
+    </classes>
+  </test> <!-- AppiumTests(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

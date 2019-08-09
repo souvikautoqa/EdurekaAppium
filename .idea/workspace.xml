@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bae68d5-c2b4-4d3e-94c3-c55437236081" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="204" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OcRBrJnf43DchICWf2LdVhZ00j" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Souvik Dutta\IdeaProjects\AppiumIntro\libs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="appiumscripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Souvik Dutta\IdeaProjects\AppiumIntro" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AppManagementActivity.pullFile">
+    <configuration name="AppManagementActivity.pullFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTutorialEdurekaBatch1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.AppManagementActivity" />
+      <option name="METHOD_NAME" value="pullFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppManagementActivity.pushFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTutorialEdurekaBatch1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.AppManagementActivity" />
+      <option name="METHOD_NAME" value="pushFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_AppManagement.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTutorialEdurekaBatch1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner_AppManagement.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_ParallelRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTutorialEdurekaBatch1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner_ParallelRun.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner.xml" />
+      <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_ParallelRun.xml" />
+      <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_AppManagement.xml" />
+      <item itemvalue="TestNG.AppManagementActivity.pushFile" />
+      <item itemvalue="TestNG.AppManagementActivity.pullFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AppManagementActivity.pullFile" />
+        <item itemvalue="TestNG.AppManagementActivity.pushFile" />
+        <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_AppManagement.xml" />
+        <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner_ParallelRun.xml" />
+        <item itemvalue="TestNG.C:/Users/Souvik Dutta/IdeaProjects/AppiumIntro/TestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bae68d5-c2b4-4d3e-94c3-c55437236081" name="Default Changelist" comment="" />
+      <created>1564274767116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564274767116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testng/TestPractice.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-1/selenium-support-4.0.0-alpha-1.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class</url>
+          <line>164</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/appiumscripts/AppManagementActivity.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-1/selenium-support-4.0.0-alpha-1.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class</url>
+          <line>167</line>
+          <properties class="org.openqa.selenium.support.ui.ExpectedConditions" method="visibilityOfAllElements">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AppiumIntro$C__Users_Souvik_Dutta_IdeaProjects_AppiumIntro_TestRunner_xml.ic" NAME="$PROJECT_DIR$/TestRunner.xml Coverage Results" MODIFIED="1564762702686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
